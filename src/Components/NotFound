@@ -1,0 +1,11 @@
+function NotFound(){
+	return(
+		<div>
+		<h1>
+		File Not Founded
+		</h1>
+		
+		</div>
+		)
+}
+export default NotFound
